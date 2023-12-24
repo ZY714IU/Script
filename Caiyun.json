@@ -16,7 +16,8 @@
       ],
       "type": "activity_icon",
       "name": "",
-      "carousel": "999999999"
+      "carousel": "999999999",
+      "feature" : false
     }
   ]
 }
