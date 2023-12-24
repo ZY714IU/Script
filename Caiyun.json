@@ -14,7 +14,7 @@
           "image_dark": "https://github.com/ZY714IU/Script/raw/main/reject-img.gif"
         }
       ],
-      "feature": 0,
+      "feature": false,
       "type": "",
       "name": "",
       "carousel": "888888888"
