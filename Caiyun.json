@@ -14,10 +14,10 @@
           "image_dark": ""
         }
       ],
-      "type": "tabbar",
+      "feature" : false,
+      "type": "",
       "name": "",
-      "carousel": "999999999",
-      "feature" : false
+      "carousel": "888888888"
     }
   ]
 }
