@@ -14,7 +14,7 @@
           "image_dark": ""
         }
       ],
-      "type": ["tabbar", "activity_icon"],
+      "type": "tabbar",
       "name": "",
       "carousel": "999999999",
       "feature" : false
