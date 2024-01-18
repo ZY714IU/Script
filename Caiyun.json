@@ -14,10 +14,13 @@
           "image_dark": ""
         }
       ],
-      "type": "",
+      "type": [
+        "activity_icon",
+        "tabbar"
+      ],
       "name": "",
       "carousel": "5000",
-      "feature": true
+      "feature": false
     }
   ]
 }
