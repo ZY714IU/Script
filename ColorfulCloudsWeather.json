@@ -1,1 +1,26 @@
-
+{
+  "status": "ok",
+  "interval": 99999999999999,
+  "id": "65313ba218edd12649a73027",
+  "activities": [
+    {
+      "items": [
+        {
+          "text": "",
+          "image_light": "https:\/\/github.com\/ZY714IU\/Script\/raw\/main\/reject-img.gif",
+          "link": "",
+          "activity_name": "",
+          "id": "1",
+          "image_dark": ""
+        }
+      ],
+      "type": [
+        "activity_icon",
+        "tabbar"
+      ],
+      "name": "",
+      "carousel": "5000",
+      "feature": true
+    }
+  ]
+}
