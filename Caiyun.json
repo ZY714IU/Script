@@ -14,10 +14,7 @@
           "image_dark": ""
         }
       ],
-      "type": [
-        "activity_icon",
-        "tabbar"
-      ],
+      "type": "",
       "name": "",
       "carousel": "5000",
       "feature": true
